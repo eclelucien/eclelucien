@@ -4,7 +4,7 @@
 <h3 align="center"> A <i>Computer Science Student</i> at 👉🏾 <i>"Universidade Federal da Fronteira Sul "<i> </h3>
 
 - I feel good when i'm coding...👨🏻‍💻.   
-- 💬 Ask me about **Python, java, c, JavaScript, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Flutter, Python, java, c, JavaScript, HTML, CSS, Bootstrap**
 - 📫 My Email  👉🏾 **eclesiastelucien@gmail.com**
 - 💬 My Team  💻 **https://www.mjcode.net/**
 
