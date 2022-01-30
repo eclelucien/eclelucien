@@ -1,8 +1,5 @@
 ### Hi there, i'm Eclesiaste 👋
 
-
-<h3 align="center"> A <i>Computer Science Student</i> at 👉🏾 <i>"Universidade Federal da Fronteira Sul "<i> </h3>
-
 - I feel good when i'm coding...👨🏻‍💻.   
 - 💬 Ask me about **Flutter, Python, java, c, JavaScript, HTML, CSS, Bootstrap**
 - 📫 My Email  👉🏾 **eclesiastelucien@gmail.com**
