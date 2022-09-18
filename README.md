@@ -1,7 +1,7 @@
 ### Hi there, i'm Eclesiaste 👋
 
 - I feel good when i'm coding...👨🏻‍💻.   
-- 💬 Ask me about **Flutter,Dart,PHP, Laravel, Python, java, c, JavaScript, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Flutter, Dart, PHP, Laravel, Python, java, c, JavaScript, HTML, CSS, Bootstrap**
 - 📫 My Email  👉🏾 **eclesiastelucien@gmail.com**
 - 💬 My Team  💻 **https://www.mjcode.net/**
 
