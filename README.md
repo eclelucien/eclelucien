@@ -12,7 +12,7 @@ I currently work as a Mobile Developer at Eagle Track LTDA and I weekly work at 
 * Others: Docker, HTML5, CSS3, ReactJs, SOLID, DDD && Clean Architecture.
 
 - 👀 I can build, from scratch to Deploy on Play Store and Apple Store Mobile Apps using: Flutter or Native Android (Java) 
-- 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway | RabbitMQ | Kafka | Docker | Keycloak
+- 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway 
 -  I'm interested to learn/improve VueJs and .Net.
 - 💞️ I’m looking to collaborate to open source projects.
 - And ... I'm an eternal Student
