@@ -1,4 +1,4 @@
- 👋 Hi, I’m Eclesiaste Lucien, I am a graduate in System Analysis and Development at UCEFF – Unidade Central de Educação Faem Faculdade.
+ 👋 Hi, I’m Eclesiaste Lucien, I have a degree in Systems Analysis and Development from UCEFF – Faem Faculdade Central Education Unit.
 My areas of interest are Software Engineering, Software Architecture, and Data Science.
 I currently work as a Mobile Developer at Eagle Track LTDA and I weekly work at [@mjcodegroup](https://github.com/mjcodegroup), a digital agency that develops software web and mobile for people. 
 
