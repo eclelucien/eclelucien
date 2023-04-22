@@ -14,7 +14,7 @@ I currently work as a Mobile Developer at Eagle Track LTDA and I weekly work at 
 - 👀 I can build, from scratch to Deploy on Play Store and Apple Store Mobile Apps using: Flutter or Native Android (Java) 
 - 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway 
 -  I'm interested to learn/improve VueJs and .Net.
-- 💞️ I’m looking to collaborate to open source projects.
+- 💞️ I’m looking to collaborate to open source flutter projects.
 - And ... I'm an eternal Student
 
 #### 💥 Connect with me on:
