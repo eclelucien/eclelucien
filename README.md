@@ -9,7 +9,7 @@ I currently work as a Mobile Developer at Eagle Track LTDA and I weekly work at 
 * Programming: Data structures, C, Java, Python, JavaScript, PHP && Dart.
 * Backend: Java, Php, Laravel, Lumen etc.
 * DataBases: SQL, MySQL && PostgreSQL.
-* Others: Docker, HTML5, CSS3, ReactJs, SOLID, DDD && Clean Architecture.
+* Others: HTML5, CSS3, ReactJs, SOLID, DDD && Clean Architecture.
 
 - 👀 I can build, from scratch to Deploy on Play Store and Apple Store Mobile Apps using: Flutter or Native Android (Java) 
 - 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway 
