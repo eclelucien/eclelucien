@@ -1,21 +1,21 @@
- 👋 Hi, I’m Eclesiaste Lucien, I have a degree in Systems Analysis and Development from UCEFF – Faem Faculdade Central Education Unit.
-My areas of interest are Software Engineering, Software Architecture, and Data Science.
-I currently work as a Mobile Developer at Eagle Track LTDA and I weekly work at [@mjcodegroup](https://github.com/mjcodegroup), a digital agency that develops software web and mobile for people. 
+ 👋 Hi, I’m Eclesiaste Lucien,a Systems Analyst and Full Stack Developer with a degree in Systems Analysis and Development from UCEFF – Faem Faculdade Central Education Unit. My areas of expertise include Software Engineering, Software Architecture, and Data Science.
 
+💼 Currently, I work as a Mobile Developer at Eagle Track LTDA and collaborate weekly at @mjcodegroup, a digital agency specializing in web and mobile software development.
 
+🔥 Here are some of my skills and interests:
+- Programming: Data structures, C, Java, Python, JavaScript, PHP, and Dart.
+- Backend: Java, PHP, Laravel, Lumen, etc.
+- Databases: SQL, MySQL, and PostgreSQL.
+- Other: HTML5, CSS3, ReactJs, SOLID, DDD, and Clean Architecture.
 
-## Here are some of my other stacks or interests:
+📱 I specialize in building mobile apps from scratch to deployment on Play Store and Apple Store. I am proficient in both Flutter and Native Android (Java) development.
 
-* Programming: Data structures, C, Java, Python, JavaScript, PHP && Dart.
-* Backend: Java, Php, Laravel, Lumen etc.
-* DataBases: SQL, MySQL && PostgreSQL.
-* Others: HTML5, CSS3, ReactJs, SOLID, DDD && Clean Architecture.
+🚀 Additionally, I have expertise in developing scalable RESTful APIs and microservices using Clean Architecture, SOLID principles, DDD, and API Gateway.
 
-- 👀 I can build, from scratch to Deploy on Play Store and Apple Store Mobile Apps using: Flutter or Native Android (Java) 
-- 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway 
--  I'm interested to learn/improve VueJs and .Net.
-- 💞️ I’m looking to collaborate to open source flutter projects.
-- And ... I'm an eternal Student
+🌱 I'm always eager to learn and improve. Currently, I am interested in enhancing my skills in Vue.js and .NET.
+
+💞️ I’m actively seeking collaboration opportunities on open-source Flutter projects. Let's work together and contribute to the developer community!
+
 
 #### 💥 Connect with me on:
 
