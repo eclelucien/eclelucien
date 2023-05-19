@@ -8,7 +8,7 @@
 - Databases: SQL, MySQL, and PostgreSQL.
 - Other: HTML5, CSS3, ReactJs, SOLID, DDD, and Clean Architecture.
 
-📱 I specialize in building mobile apps from scratch to deployment on Play Store and Apple Store. I am proficient in both Flutter and Native Android (Java) development.
+📱 I specialize in building mobile apps from scratch to deployment on Play Store and App Store. I am proficient in both Flutter and Native Android (Java -Kotlin) development.
 
 🚀 Additionally, I have expertise in developing scalable RESTful APIs and microservices using Clean Architecture, SOLID principles, DDD, and API Gateway.
 
