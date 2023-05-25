@@ -4,11 +4,11 @@
 
 🔥 Here are some of my skills and interests:
 - Programming: Data structures, C, Java, Python, JavaScript, PHP, and Dart.
-- Backend: Java, PHP, Laravel, Lumen, etc.
+- Backend: Java, PHP, Laravel, Lumen,Spring Boot etc.
 - Databases: SQL, MySQL, and PostgreSQL.
 - Other: HTML5, CSS3, ReactJs, SOLID, DDD, and Clean Architecture.
 
-📱 I specialize in building mobile apps from scratch to deployment on Play Store and App Store. I am proficient in Flutter and  and learning Native Android (Java -Kotlin) development.
+📱 I specialize in building mobile apps from scratch to deployment on Play Store and App Store. I'am proficient in Flutter and  learning Native Android (Java -Kotlin) development.
 
 🚀 Additionally, I have expertise in developing scalable RESTful APIs and microservices using Clean Architecture, SOLID principles, DDD, and API Gateway.
 
