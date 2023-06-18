@@ -1,4 +1,4 @@
- 👋 Hi, I’m Eclesiaste Lucien, a Systems Analyst and Full Stack Developer with a degree in Systems Analysis and Development from UCEFF – Faem Faculdade Central Education Unit. My areas of expertise include Software Engineering, Software Architecture, and Data Science.
+ 👋 Hi, I’m Eclesiaste Lucien, a Systems Analyst and Full Stack Developer. My areas of expertise include Software Engineering, Software Architecture, and Data Science.
 
 💼 Currently, I work as a Mobile Developer at Eagle Track LTDA and collaborate weekly at MJcode Group, a digital agency specializing in web and mobile software development.
 
