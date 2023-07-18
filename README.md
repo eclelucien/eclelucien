@@ -16,7 +16,6 @@
 
 💞️ I’m actively seeking collaboration opportunities on open-source Flutter projects. Let's work together and contribute to the developer community!
 
-
 #### 💥 Connect with me on:
 
 <div>
