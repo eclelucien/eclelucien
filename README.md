@@ -1,4 +1,4 @@
- 👋 Hi, I’m Eclesiaste Lucien, a Systems Analyst and Full Stack Developer. My areas of expertise include Software Engineering and  Software Architecture.
+ 👋 Hi, I’m Eclesiaste Lucien, a Systems Analyst and Full Stack Developer. My main focus include Software Engineering and  Software Architecture.
 
 💼 Currently, I work as a Mobile Developer at Eagle Track LTDA and collaborate weekly at MJcode Group, a digital agency specializing in web and mobile software development.
 
@@ -10,7 +10,7 @@
 
 📱 I specialize in building mobile apps from scratch to deployment on Play Store and App Store. I'am proficient in Flutter and  learning Native Android (Java -Kotlin) development.
 
-🚀 Additionally, I have expertise in developing scalable RESTful APIs and microservices using Clean Architecture, SOLID principles, DDD, and API Gateway.
+🚀 Additionally,I have my specialization in developing scalable RESTful APIs and microservices using Clean Architecture, SOLID principles, DDD, and API Gateway.
 
 🌱 I'm always eager to learn and improve. Currently, I am interested in enhancing my skills in Vue.js and .NET.
 
