@@ -12,7 +12,7 @@
 
 🚀 Additionally,I have my specialization in developing scalable RESTful APIs and microservices using Clean Architecture, SOLID principles, DDD, and API Gateway.
 
-🌱 I'm always eager to learn and improve. Currently, I am interested in enhancing my skills in Vue.js and .NET.
+🌱 I'm always eager to learn and improve. Currently, I am interested in enhancing my skills in Vue.js, C++ and .NET.
 
 💞️ I’m actively seeking collaboration opportunities on open-source Flutter projects. Let's work together and contribute to the developer community!
 
