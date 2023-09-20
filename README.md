@@ -3,6 +3,7 @@
 💼 Currently, I work as a Mobile Developer at Eagle Track LTDA and collaborate weekly at MJcode Group, a digital agency specializing in web and mobile software development.
 
 🔥 Here are some of my skills and interests:
+
 - Programming: Data structures, C, Java, Python, JavaScript, PHP, and Dart.
 - Backend: Java, PHP, Laravel, Lumen,Spring Boot etc.
 - Databases: SQL, MySQL, and PostgreSQL.
