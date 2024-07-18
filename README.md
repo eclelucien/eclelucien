@@ -17,6 +17,7 @@
 
 💞️ I’m actively seeking collaboration opportunities on open-source Flutter projects. Let's work together and contribute to the developer community!
 
+
 #### 💥 Connect with me on:
 <div>
    <a href="https://www.linkedin.com/in/eclesiaste-lucien-a51b171b8/" target="_blank">
