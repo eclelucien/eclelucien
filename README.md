@@ -1,6 +1,6 @@
  👋 Hi, I’m Eclesiaste Lucien, a Systems Analyst and Full Stack Developer. My main focus include Software Engineering and  Software Architecture.
 
-💼 Currently, I work as a Mobile Developer at Eagle Track LTDA and collaborate weekly at MJcode Group, a digital agency specializing in web and mobile software development.
+💼 Currently, I work as a Back-end Developer at IXCSoft and collaborate weekly at MJcode Group, a digital agency specializing in web and mobile software development.
 
 🔥 Here are some of my skills and interests:
 
