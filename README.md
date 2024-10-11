@@ -4,7 +4,7 @@
 
 🔥 Here are some of my skills and interests:
 
-- Programming: Data structures, C, Java, Python, JavaScript, PHP, and Dart.
+- Programming: Data structures, C, Java, Python, JavaScript, TypeScrpt, PHP, and Dart.
 - Backend: Java, PHP, Laravel, Lumen,Spring Boot etc.
 - Databases: SQL, MySQL, and PostgreSQL.
 - Other: HTML5, CSS3, ReactJs, SOLID, DDD, and Clean Architecture.
